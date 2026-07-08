@@ -11,3 +11,4 @@ endif()
 
 add_subdirectory(lib)
 add_subdirectory(programs/example)
+add_subdirectory(programs/point_side)
